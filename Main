@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Government Tree",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 100,
+            "Cultural": 100,
+            "Diplomatic": 100,
+            "Domination": 100,
+            "Scientific": 100
+        },
+        "uniques": [
+            "Free Social Policy",
+        ],
+        "policies": [
+            {
+                "name": "Godkings",
+                "uniques": [
+                    "[+20]% Production when constructing [All] wonders [in capital]",
+                    "[+1 Faith] per [1] population [in capital]"
+                                "Only available <before adopting [City States]>",
+
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Khanate",
+                "uniques": [
+                    "Free [Khan] appears",
+                    "No movement cost to pillage<for [Mounted] units"
+                                "Only available <before adopting [Bueracratic Monarchy]>",
+            "Only available <before adopting [Classical Republic]>",
+            "Only available <starting from the [Classical era]>",
+
+                ],
+                "row": 1,
+                "column": 3
+            },
+                        {
+                "name": "Elected Monarchy",
+                "uniques": [
+                    "Can spend Gold to annex or pupper a City-State that has been your ally for [20] turns",
+                    "[20]% Strength <vs [City-State] units"
+"Only available <before adopting [Fuedal Monarchy]>",
+            "Only available <before adopting [Merchant Republic]>",
+                    "Only available <starting from the [Medieval era]>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+                                               {
+                "name": "Absolute Monarchy",
+                "uniques": [
+                    "[+4 Culture] [in all cities connected to capital]",
+                    "[+15]% Strength <while the empire is happy>"
+                    "Only available <before adopting [Representative Democracy]>",
+            "Only available <before adopting [Colonial Empire]>",
+                    "Only available <starting from the [Renaissance era]>"
+                ],
+                "row": 1,
+                "column": 7
+            },
+                
+                                                {
+                "name": "Fascistic Ideology",
+                "uniques": [
+                    "[+20]% Strength for cities",
+                    "[+20]% Strength <for [Wounded] units"
+                    "Only available <before adopting [Communistic Ideology]>",
+            "Only available <before adopting [Capitalistic Ideology]>",
+                    "Only available <starting from the [Industrial era]>"
+                ],
+                "row": 1,
+                "column": 9
+            },
+                                    {
+                "name": "One Party State",
+                "uniques": [
+                    "[+10]% [Gold, Production, Food] [in all cities]",
+                    "[-33]% [Happiness]"
+            "Only available <before adopting [Welfare State]>",
+                    "Only available <starting from the [Modern era]>"
+                ],
+                "row": 1,
+                "column": 11
+            },
+            {
+                "name": "Bueracratic Monarchy",
+                "uniques": [
+                    "[+20]% [Food] [in capital]",
+                    "[+10 Faith] [in capital]"
+                                                    "Only available <before adopting [Khanate]>",
+            "Only available <before adopting [Classical Republic]>",
+                    "Only available <starting from the [Classical era]>"
+                ],
+                "row": 2,
+                "column": 3
+            },
+                        {
+                "name": "Fuedal Monarchy",
+                "uniques": [
+                    "[+1 Food] from [Farm] tiles [in all cities]",
+                    "[+1 Food, +1 Production, +1 Gold, +1 Culture, +1 Faith, +1 Science, +1 Happiness] <in cities with a [Castle}"
+                    
+"Only available <before adopting [Elected Monarchy]>",
+            "Only available <before adopting [Merchant Republic]>",
+                    "Only available <starting from the [Medieval era]>"
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Colonial Empire",
+                "uniques": [
+                    "[+1 Gold] from [All] tiles [in all cities] <on foreign continents>",
+                    "[+2] Movement <for [embarked] units>"
+"[+2] Movement <for [water units] units>"
+                    "Only available <before adopting [Representative Democracy]>",
+            "Only available <before adopting [Constitutional Monarchy]>",
+                    "Only available <starting from the [Renaissance era]>"
+                ],
+                "row": 2,
+                "column": 7
+            },
+                                    {
+                "name": "Communistic Ideology",
+                "uniques": [
+                    "[+1 Production, -2 Gold] from [All] tiles [in all cities]",
+                    "Only available <before adopting [Fascistic Ideology]>",
+            "Only available <before adopting [Capitalistic Ideology]>",
+                    "Only available <starting from the [Industrial era]>"
+                ],
+                "row": 2,
+                "column": 9
+            },
+            {
+
+                "name": "Constituional Monarchy",
+                "uniques": [
+                    "[+1]% Gold] from [All] tiles [in all cities]",
+                    "[+1] Movement <for [embarked] units>"
+"[+2] Movement <for [land units] units>"
+                    "Only available <before adopting [Representative Democracy]>",
+            "Only available <before adopting [Colonial Empire]>",
+                    "Only available <starting from the [Renaissance era]>"
+                ],
+                "row": 2,
+                "column": 11
+            },
+            {
+                "name": "City States",
+                "uniques": [
+                    "[+4 Gold, +2 Happiness, +1 Culture] from each Trade Route"
+                                "Only available <before adopting [Godkings]>",
+
+                ],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Classical Republic",
+                "uniques": [
+                    "[+25]% Production  when constructing [All] units [in all cities]",
+                                                                        "Only available <before adopting [Khanate]>",
+            "Only available <before adopting [Bueracratic Monarchy]>",
+                    "Only available <starting from the [Classical era]>"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Merchant Republic",
+                "uniques": [
+                    "[+100]% [Gold} [in capital]",
+                    "[+4 Gold, +4 Culture] from each Trade Routes"
+"Only available <before adopting [Elected Monarchy]>",
+            "Only available <before adopting [Fuedal Monarchy]>", "Only available <starting from the [Medieval era]>"
+                ],
+                "row": 3,
+                "column": 5
+            },
+                                    {
+                "name": "Representative Democracy",
+                "uniques": [
+                    "[+1 Happiness, +2 Culture] per [5] population [in all cities]",
+                    "Empire enters a golden age"
+                    "[1] population [in all cities]"
+                    "Only available <before adopting [Colonial Empire]>",
+            "Only available <before adopting [Constitutional Monarchy]>",
+                    "Only available <starting from the [Renaissance era]>"
+                ],
+                "row": 3,
+                "column": 7
+            },
+                                    {
+                "name": "Capitalistic Ideology",
+                "uniques": [
+                    "[+20]% [Gold, Culture]",
+                    "Only available <before adopting [Fascistic Ideology]>",
+            "Only available <before adopting [Communistic Ideology]>",
+                    "Only available <starting from the [Industrial era]>"
+                ],
+                "row": 3,
+                "column": 9
+            },
+                        {
+                "name": "Welfare State",
+                "uniques": [
+                    "[+33]% [Happiness, Science] [in all cities with a world wonder]",
+            "Only available <before adopting [One Party State]",
+                    "Only available <starting from the [Modern era]>"
+                ],
+                "row": 3,
+                "column": 11
+            },
+            {
+                "name": "Government Tree Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Provides a [Aqueduct] in your first [4] cities for free"
+                ]
+            }
+        ]
+    },
+]
